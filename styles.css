@@ -39,11 +39,11 @@ footer {
 
 /* CSS styles for adjusting font size */
 ul li img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     display: block;
 }
 
 ul li {
-    font-size: 16px; /* Adjust the font size as needed */
+    font-size: 12px; /* Adjust the font size as needed */
 }
