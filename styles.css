@@ -25,8 +25,8 @@ ul li {
 
 /* Adjust image size */
 ul li img {
-    max-width: 100%; /* Ensure images resize properly */
-    max-height: 100px; /* Adjust the maximum height as needed */
+    max-width: 200px; /* Set a fixed width for the images */
+    height: auto; /* Allow images to adjust their height proportionally */
 }
 
 /* Header styles */
