@@ -25,7 +25,7 @@ ul li {
 
 /* Adjust image size */
 ul li img {
-    max-width: 200px; /* Set a fixed width for the images */
+    max-width: 400px; /* Set a fixed width of 400 pixels for the images */
     height: auto; /* Allow images to adjust their height proportionally */
 }
 
