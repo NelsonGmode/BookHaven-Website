@@ -43,8 +43,8 @@ footer {
 
 /* CSS styles for adjusting font size */
 ul li img {
-    max-width: 50%;
-    height: auto;
+    max-width: 25%;
+    max height: 25px;
     display: block;
 }
 
